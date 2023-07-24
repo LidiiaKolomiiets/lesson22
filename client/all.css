@@ -1,0 +1,19 @@
+.form{
+    padding: 15px;
+    font-size: 18px;
+}
+.button{
+    color: green;
+    font-size: 16px;
+    margin: 15px 0 0 15px;
+    padding: 5px;
+}
+.form p {
+    color: #176f17;
+    font-weight: 500;
+}
+.answer{
+    color: #174917;
+    font-size: 18px;
+    margin: 10px;
+}
